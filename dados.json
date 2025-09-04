@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "cpf": 11111111110,
+        "nome": "Cassio",
+        "sobrenome": "Ramos",
+        "cidade": "Belo Horizonte",
+        "pais": "Brasil",
+        "link": "https://www.cruzeiro.com.br/",
+        "imagem": "<img src= 'img/cassio.jfif' width='200px'> "
+    },
+    {
+        "id": 2,
+        "cpf": 22222222220,
+        "nome": "Péricles",
+        "sobrenome": "Aparecido",
+        "cidade": "Santos",
+        "pais": "Brasil",
+        "link": "https://www.exaltaoficial.com.br/",
+        "imagem": "<img src= 'img/pericles.jfif' width='200px'> "
+    },
+    {
+        "id": 3,
+        "cpf": 33333333330,
+        "nome": "Ana Maria",
+        "sobrenome": "Braga",
+        "cidade": "Niterói",
+        "pais": "Brasil",
+        "link": "https://gshow.globo.com/tv/mais-voce/",
+        "imagem": "<img src= 'img/anamariabraga.jfif' width='200px'> "
+    },
+    {
+        "id": 4,
+        "cpf": 44444444440,
+        "nome": "Rodrigo",
+        "sobrenome": " Faro",
+        "cidade": "televisao",
+        "pais": "Brasil",
+        "link": "https://entretenimento.r7.com/",
+        "imagem": "<img src= 'img/rodrigofaro.webp' width='200px'> "
+    },
+    {
+        "id": 5,
+        "cpf": 55555555550,
+        "nome": "Xaropinho",
+        "sobrenome": "Do Ratinho",
+        "cidade": "Osasco",
+        "pais": "Brasil",
+        "link": "https://www.sbt.com.br/",
+        "imagem": "<img src= 'img/Xaropinho.jfif' width='200px'> "
+    },
+    {
+        "id": 6,
+        "cpf": 66666666660,
+        "nome": "Celso",
+        "sobrenome": "Portiolli",
+        "cidade": "Belo Horizonte",
+        "pais": "Brasil",
+        "link": "https://www.sbt.com.br/programas/auditorio/domingo-legal",
+        "imagem": "<img src= 'img/celsoportiolli.jfif' width='200px'> "
+    },
+    {
+        "id": 7,
+        "cpf": 77777777770,
+        "nome": "Serginho",
+        "sobrenome": "Groisman",
+        "cidade": "Manaus",
+        "pais": "Brasil",
+        "link": "https://gshow.globo.com/tv/altas-horas/",
+        "imagem": "<img src= 'img/serginhogroisman.jfif' width='200px'> "
+    },
+    {
+        "id": 8,
+        "cpf": 88888888880,
+        "nome": "Terry Crews",
+        "sobrenome": "Alan",
+        "cidade": "New York",
+        "pais": "Estados Unidos",
+        "link": "https://www.imdb.com/pt/name/nm0187719/",
+        "imagem": "<img src= 'img/terrycrews.jfif' width='200px'> "
+    },
+    {
+        "id": 9,
+        "cpf": 99999999990,
+        "nome": "Ricardo Kaka",
+        "sobrenome": "Izecson",
+        "cidade": "São Paulo",
+        "pais": "Brasil",
+        "link": "https://www.fifa.com/pt/tournaments/mens/fifa-club-world-cup/saudi-arabia-2023/articles/kaka-milan-mundial-de-clubes-2007-boca-juniors",
+        "imagem": "<img src= 'img/kaka.jfif' width='200px'> "
+    },
+    {
+        "id": 10,
+        "cpf": 10000000010,
+        "nome": "Cleber",
+        "sobrenome": "Machado",
+        "cidade": "São Paulo",
+        "pais": "Brasil",
+        "link": "https://esportes.r7.com/",
+        "imagem": "<img src= 'img/clebermachado.jpg' width='200px'> "
+    }
+    
+    
+]
